@@ -1,0 +1,102 @@
+<html lang="fr">
+<head>
+    <link href="BonPlan.css" rel="stylesheet" />
+    <title></title>
+    <meta charset="utf-8">
+    <title> Bons Plans IUT2 Grenoble</title>
+    <!--     <link rel="stylesheet" type="text/css" href="Stylebonsplans.css">           -->
+</head>
+
+<body>
+
+    <header>
+        <img src="images-bonsplans/logo.png" alt="Bulle texte">
+        <img src="images-bonsplans/logoreseauxsociaux.gif" alt="Réseaux Sociaux">
+        <h1>"La communauté IUT2 Grenoble partage ses bons plans"</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li>          <a href="#"> <img src="images-bonsplans/home.png" alt="Home"> </a> </li>
+            <li> <p>|</p> <a href="#">QUI SOMMES NOUS</a>  </li>
+            <li> <p>|</p> <a href="#">CATEGORIES DE BONS PLANS </a> </li>
+            <li> <p>|</p> <a href="#">CONTACT </a> </li>
+        </ul>
+    </nav>
+
+    <div>
+        <img src="images-bonsplans/banniere.jpg" alt="Banniere">
+    </div>
+
+    <div id="corps">
+
+        <section>
+
+            <div id="gauche">
+                <h2><img src="images-bonsplans/hachureH2.png" /> Les derniers "Bons plans" publiés</h2>
+
+                <div id="art">
+
+                   <article id="art1">
+                        <div class="img-art"><img src="images-bonsplans/visuel-article.jpg" alt="Bar sieste"></div>
+                        <div class="corps-art">
+                           <h3>Un Bar à Sieste sur Grenoble ! <a href="#"> <img src="images-bonsplans/heart-empty-16.png" alt="Icon Like"></a>162 <a href="#"> <img src="images-bonsplans/speech-bubble-left-4-16.png" alt="Commentaires Icone"></a>29 </h3>
+                           <h4>publiés par "Guillaume de la compta" le 18/35/2044 </h4><br>
+                           <p>Un bar à sieste vient d'ouvrir à Grenoble à deux pas de l'IUT2 sur l'avenue Félix Vialet.Le concept proposer aux clients 20 minutes de massage sur un lit chauffant suivi de 20 minutes de sieste. Ces lits disposent de pierres chauffantes qui massent la colonne vértébrale</p>
+                           <a href="#">Lire la suite</a>
+                        </div>
+                   </article>
+
+                   <article id="art2">
+                       <div class="img-art"><img src="images-bonsplans/visuel-article.jpg" alt="Bar sieste"></div>
+                       <div class="corps-art">
+                           <h3>Un deuxieme article <a href="#"> <img src="images-bonsplans/heart-empty-16.png" alt="Icon Like"></a>32 <a href="#"> <img src="images-bonsplans/speech-bubble-left-4-16.png" alt="Commentaires Icone"> </a>13 </h3>
+                           <h4>publiés par "Guillaume de la compta" le 18/35/2044 </h4><br>
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. </p>
+                           <a href="#">Lire la suite</a>
+                       </div>
+                   </article>
+            </div>
+
+            </div>
+
+            
+            <div id="droite">
+                <aside>
+                    <div>
+                        <p>Top 10</p>
+                        <img src="images-bonsplans/heart-empty-64.png" alt="Coeur">
+                        <p>Le classement des 10 meilleurs"bon plans"</p>
+                    </div>
+
+                    <div>
+                        <p>Newsletter</p>
+                        <img src="images-bonsplans/mail-3-64.png" alt="Mail">
+                        <p>Pour ne pas rater un bon plan !</p>
+                    </div>
+
+                </aside>
+            </div>
+            
+
+        </section>
+
+        <footer>
+            <img src="images-bonsplans/logo-iut2.png" alt="Logo IUT2 Grenoble">
+            <img src="images-bonsplans/logo-upmf.png" alt="Logo UPMF">
+            <p>Copyright IUT 2 de Grenoble 2019</p>
+            <a href="#">Mention legales</a>
+            <a href="#">Plan du site</a>
+            <a href="#">Un truc</a>
+            <a href="#">Contact</a>
+
+        </footer>
+
+
+
+    </div>
+
+
+
+</body>
+</html>
